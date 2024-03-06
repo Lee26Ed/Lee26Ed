@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm currently a student at the Univeristy of Belize.
+I am currently working on becoming a backend web developer. 
+
+Unpopular Opinion: I like debugging my code :) 
+
 <!--
 **Lee26Ed/Lee26Ed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
