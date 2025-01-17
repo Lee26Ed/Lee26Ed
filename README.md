@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-I'm currently a student at the Univeristy of Belize.
-I am currently working on becoming a backend web developer. 
+I'm a software developer working at the SIB.
+I work with python, flask, oracle, and oracle Apex.
 
 Unpopular Opinion: I like debugging my code :) 
 
